@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @Date    : Feb-14-21 01:57
-# @Author  : Kelly Hwong (dianhuangkan@gmail.com)
+# @Author  : Kan HUANG (kan.huang@connect.ust.hk)
 
 import os
 import numpy as np

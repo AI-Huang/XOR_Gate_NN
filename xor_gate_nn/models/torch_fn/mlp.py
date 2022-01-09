@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @Date    : Feb-17-21 19:10
-# @Author  : Kelly Hwong (dianhuangkan@gmail.com)
-# @Link    : http://example.org
+# @Author  : Kan HUANG (kan.huang@connect.ust.hk)
 
 import torch
 from torch import nn
